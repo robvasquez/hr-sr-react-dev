@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
-import TodoList from "./components/todoList/TodoList";
 
 function App() {
   return (
-    <TodoList />
+    <>
+      <p>ToDos Test</p>
+    </>
   );
 }
 
